@@ -3,7 +3,7 @@ Operating chef-brigade infra &amp; services
 
 chef-brigade is running some infrastructure and managing some services. Here's how it works.
 
-- Slack: https://chef-brigade.slack.com/
+- Slack: https://chefcommunity.slack.com/messages/chef_brigade
 - Supermarket: https://supermarket.chef.io/users/chef-brigade
 - Chef Server: https://manage.chef.io/organizations/chef-brigade
 - CloudFlare SSL, DNS
